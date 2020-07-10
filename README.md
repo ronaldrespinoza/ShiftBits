@@ -6,6 +6,7 @@ An example input set is:
 * 127;2;3
 * 127;2;4
 * 127;3;4
+
 An example result set is:
 * getbits(x=127, p=2, n=2) = 3
 * getbits(x=127, p=2, n=3) = 7
